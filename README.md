@@ -1,17 +1,3 @@
-# Discord-Js-Handler-Template
-
-
-***
-
-# [new Version - Discord.js v14 - Slash command only - but very effective](https://github.com/Tomato6966/discord-js-v14-handler)
-
-***
-
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
-
-***
-
-## Installation Guide
 
 <br/>
 - have **node.js v16.6 or higher**
